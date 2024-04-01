@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(109, 230, 105);
+    color: black;
+    text-align: center;
+}
+
+#buttons {
+    padding-top: 70px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
